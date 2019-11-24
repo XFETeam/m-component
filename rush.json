@@ -303,7 +303,7 @@
    */
   "projects": [
     {
-      "packageName": "tiny-component",
+      "packageName": "@xfe-team/tiny-component",
       "projectFolder": "tools/tiny-component"
     }
     // {
