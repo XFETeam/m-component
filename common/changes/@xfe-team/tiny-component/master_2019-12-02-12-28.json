@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@xfe-team/tiny-component",
+      "comment": "Initial commit",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@xfe-team/tiny-component",
+  "email": "sheailun@kingsoft.com"
+}
