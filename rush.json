@@ -304,7 +304,7 @@
   "projects": [
     {
       "packageName": "@xfe-team/tiny-component",
-      "projectFolder": "tools/tiny-component",
+      "projectFolder": "components/tiny-component",
       "shouldPublish": true
     }
     // {
