@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@xfe-team/catch-error",
+      "comment": "init commit",
+      "type": "major"
+    }
+  ],
+  "packageName": "@xfe-team/catch-error",
+  "email": "sheailun@kingsoft.com"
+}

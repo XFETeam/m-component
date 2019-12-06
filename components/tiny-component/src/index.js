@@ -97,8 +97,8 @@ class TinyPureComponent extends PureComponent {
 }
 
 // noinspection JSValidateTypes
-TinyComponent.prototype = prototype;
+Object.assign(TinyComponent.prototype, prototype);
 // noinspection JSValidateTypes
-TinyPureComponent.prototype = prototype;
+Object.assign(TinyPureComponent.prototype, prototype);
 
-export { TinyComponent, TinyPureComponent, catchError };
+export { TinyComponent, TinyPureComponent };

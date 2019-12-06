@@ -1,6 +1,6 @@
 {
   "name": "@xfe-team/tiny-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "基类微小组件, 用于继承使用",
   "author": "jf3096",
   "license": "MIT",
@@ -54,7 +54,6 @@
     "rollup-plugin-url": "^1.4.0"
   },
   "dependencies": {
-    "catch-decorator": "2.0.0",
     "without-props": "1.0.1"
   },
   "files": [
