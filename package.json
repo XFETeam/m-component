@@ -1,0 +1,14 @@
+{
+  "name": "xfe-m-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XFETeam/m-component.git",
+  "author": "sheailun <sheailun@kingsoft.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "rush publish -p --set-access-level=public"
+  },
+  "devDependencies": {
+    "@microsoft/rush": "^5.17.2"
+  }
+}

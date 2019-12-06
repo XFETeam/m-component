@@ -1,0 +1,36 @@
+{
+  "name": "@xfe-team/catch-error",
+  "version": "0.0.1",
+  "description": "通过装饰器或包裹的形式捕获异常",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "npm run build && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XFETEAM/catch-error.git"
+  },
+  "keywords": [
+    "catch",
+    "decorator",
+    "javascript",
+    "errors",
+    "handling"
+  ],
+  "origin-author": "Enkot",
+  "author": "She Ailun",
+  "license": "MIT",
+  "homepage": "https://github.com/XFETEAM/catch-error#readme",
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "jest": "^23.0.1",
+    "rollup": "^0.59.3",
+    "rollup-plugin-license": "^0.7.0",
+    "rollup-plugin-typescript2": "^0.14.0",
+    "ts-jest": "^22.4.6",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.7.2"
+  }
+}
